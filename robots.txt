@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://hirameki-gakari.github.io/sitemap.xml
+Sitemap: https://hirameki-gakari.github.io/gohan-hirameki-gakari/sitemap.xml
+Sitemap: https://hirameki-gakari.github.io/omise-hirameki-gakari/sitemap.xml
